@@ -1,0 +1,1 @@
+Dùng iframe truyền auth.html thành pop up ở index.html Tách các logic js thành file riêng & export để import vào main.js Dùng hash truyền từ index.html khi click button sign sigup xác định hiển thị sign in/sign up form hoặc dùng post message
